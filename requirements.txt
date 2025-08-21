@@ -1,0 +1,9 @@
+requests
+pandas>=2.0
+azure-storage-blob
+google-cloud-storage
+boto3
+pdfkit
+jinja2
+google-cloud
+databricks-sdk
